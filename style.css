@@ -1,0 +1,43 @@
+#wrapper { 
+  background-color: black;
+  width: 90%;
+  margin: auto;
+  min-width: 800px;
+  color: white;
+} 
+header{
+  height: 70px;
+  background-color: #d1b38d;
+  color: black;
+  font-weight: bold;
+  font-family: century, serif;
+  text-align: center;
+  padding: 1px;
+}
+
+.navigation{
+  background-color: #1d1d1d;
+}
+.nav-button {
+  background-color: #1d1d1d;
+  top: 10px;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  font-size: 10%;
+  cursor: pointer;
+}
+.nav-menu {
+  background-color: #1d1d1d;
+  display: none;
+  width: 330px;
+  color: white;
+  float: right;
+}
+.nav-menu a {
+  padding: 15px 15px 0px;
+  text-decoration: none;
+  color: white;
+  display: block;
+  float: left;
+}
